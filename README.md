@@ -10,4 +10,4 @@ Coming soon.
 
 ## Portfolio Title
 
-[Portfolio Title](journal/)
+[Portfolio Title](Portfolio/)
