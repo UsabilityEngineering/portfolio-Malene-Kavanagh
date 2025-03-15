@@ -6,8 +6,8 @@ Usability Engineering class: Taking it for requirements, interested in the varie
 
 ## UX Team Project
 
-Coming soon to DVD.
+PassGuard
 
 ## Portfolio Title
 
-[Replace with title of journal](journal/)
+[Journal_01](Journal_01)
