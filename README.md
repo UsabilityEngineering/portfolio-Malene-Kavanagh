@@ -10,4 +10,4 @@ PassGuard
 
 ## Portfolio Title
 
-[Journal_01](Journal_01)
+[Journal Entry 01](j01)
