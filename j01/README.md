@@ -4,13 +4,17 @@
 ## Malene Kavanagh   Date: 05/13/2025
 
 
-I had a new experience with technology through the use of cruise control
+I had a new experience with technology through the use of cruise control. Though I could have read through the owner's manual,
+it was not a pertinent thing to look up admidst driving or durring errands. 
+So looking up how to work cruise control fell into the back of my mind espessially since I thought I knew how it worked.
+With the first vehicle I thought it was only one button as the cru
 
+
+![](honda2.jpg)<img src="honda2.jpg" width="200" height="300">
 ![](honda1.jpg)
-![](honda2.jpg)
+
+
 ![](trailblazer.jpg)
 
 
-then there was the **Cognitive** **Walkthrough** this is shows us if the layout and general function of our
-product is understandable to a general user. Due to Error and Timing we did not get critiqued. Although we 
-did not get critiqued quite yet I knows I need to add a sign up page.
+That was my experience with cruise control
