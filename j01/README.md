@@ -11,9 +11,9 @@ With the first vehicle I thought it was only one button since the button and the
 So my **mental map**, the representation of the functions of the car through layout and design, of the vehicle was skewed due to the separation of the controls and the button.
 I never was able to utilize the cruise control on the Honda.
 
->button
+> button
 <img src="honda2.jpg" width="400" height="600">
->controls
+> controls
 <img src="honda1.jpg" width="400" height="600">
   
 Now I came again on to the same problem except the buttons and the controls were all in one place.  
