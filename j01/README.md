@@ -25,6 +25,7 @@ I must turn on the cruise control before I am able to set it. Although the setti
 I understood that holding the button would used the set or reactivate button and a quick click would only use the increase or decrease respectively so my **Mental Model** was correct on that aspect.
 Then the button on the right deactivated the cruise control. This was a game changer for long trips, although it still allows for my mind to wander while driving.
 
+> Trailblazer
 <img src="trailblazer.jpg" width="400" height="600">
 
 
