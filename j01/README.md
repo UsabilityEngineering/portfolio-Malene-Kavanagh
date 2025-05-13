@@ -1,7 +1,7 @@
 # Journal 01
 
 
-## Malene Kavanagh   Date: 03/14/2025
+## Malene Kavanagh   Date: 05/13/2025
 
 ![](Heuristics.png)
 
