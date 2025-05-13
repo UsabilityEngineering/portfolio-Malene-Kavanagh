@@ -10,7 +10,7 @@ So looking up how to work cruise control fell into the back of my mind espessial
 With the first vehicle I thought it was only one button as the cru
 
 
-![](honda2.jpg)<img src="honda2.jpg" width="200" height="300">
+<img src="honda2.jpg" width="400" height="600">
 ![](honda1.jpg)
 
 
