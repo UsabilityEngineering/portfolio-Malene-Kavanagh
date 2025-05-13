@@ -13,6 +13,7 @@ I never was able to utilize the cruise control on the Honda.
 
 > button
 <img src="honda2.jpg" width="400" height="600">
+
 > controls
 <img src="honda1.jpg" width="400" height="600">
   
